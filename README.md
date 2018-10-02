@@ -6,7 +6,7 @@
 		<img alt="Open Source Love" height="18" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 	</a>
 	
-###Contribute###
+## Contribute
 - Edit index.html
 - Add your name
 - Create PR
